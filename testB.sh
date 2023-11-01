@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this file has been updated"
+echo "this file B has been updated AGAIN"
